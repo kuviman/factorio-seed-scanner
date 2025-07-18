@@ -27,6 +27,8 @@ struct Args {
     pub safe_dist: i32,
     pub from: u32,
     pub to: u32,
+    #[clap(long, default_value = "10")]
+    pub top: usize,
 }
 
 #[derive(Debug, PartialEq, PartialOrd, Ord, Eq)]
@@ -61,7 +63,7 @@ fn main() {
         println!("seed = {seed}: {result:#?}");
         results.insert((result, seed));
     }
-    for (rank, (result, seed)) in results.into_iter().rev().enumerate().take(3) {
+    for (rank, (result, seed)) in results.into_iter().rev().enumerate().take(args.top).rev() {
         let rank = rank + 1;
         println!("#{rank}. {seed} = {result:#?}");
     }
