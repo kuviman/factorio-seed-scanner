@@ -1,0 +1,360 @@
+#20. 1584 = MapResult {
+    iron: Patches {
+        safe: 5,
+        total: 8,
+    },
+    copper: Patches {
+        safe: 2,
+        total: 8,
+    },
+    coal: Patches {
+        safe: 2,
+        total: 6,
+    },
+    stone: Patches {
+        safe: 6,
+        total: 8,
+    },
+}
+#19. 1764 = MapResult {
+    iron: Patches {
+        safe: 5,
+        total: 8,
+    },
+    copper: Patches {
+        safe: 3,
+        total: 6,
+    },
+    coal: Patches {
+        safe: 4,
+        total: 5,
+    },
+    stone: Patches {
+        safe: 2,
+        total: 6,
+    },
+}
+#18. 1798 = MapResult {
+    iron: Patches {
+        safe: 5,
+        total: 8,
+    },
+    copper: Patches {
+        safe: 4,
+        total: 5,
+    },
+    coal: Patches {
+        safe: 2,
+        total: 5,
+    },
+    stone: Patches {
+        safe: 3,
+        total: 7,
+    },
+}
+#17. 1890 = MapResult {
+    iron: Patches {
+        safe: 5,
+        total: 8,
+    },
+    copper: Patches {
+        safe: 4,
+        total: 5,
+    },
+    coal: Patches {
+        safe: 2,
+        total: 7,
+    },
+    stone: Patches {
+        safe: 1,
+        total: 3,
+    },
+}
+#16. 1362 = MapResult {
+    iron: Patches {
+        safe: 5,
+        total: 9,
+    },
+    copper: Patches {
+        safe: 2,
+        total: 5,
+    },
+    coal: Patches {
+        safe: 3,
+        total: 5,
+    },
+    stone: Patches {
+        safe: 2,
+        total: 9,
+    },
+}
+#15. 1248 = MapResult {
+    iron: Patches {
+        safe: 5,
+        total: 9,
+    },
+    copper: Patches {
+        safe: 3,
+        total: 5,
+    },
+    coal: Patches {
+        safe: 5,
+        total: 6,
+    },
+    stone: Patches {
+        safe: 1,
+        total: 5,
+    },
+}
+#14. 1524 = MapResult {
+    iron: Patches {
+        safe: 5,
+        total: 9,
+    },
+    copper: Patches {
+        safe: 4,
+        total: 5,
+    },
+    coal: Patches {
+        safe: 2,
+        total: 6,
+    },
+    stone: Patches {
+        safe: 3,
+        total: 4,
+    },
+}
+#13. 1378 = MapResult {
+    iron: Patches {
+        safe: 5,
+        total: 9,
+    },
+    copper: Patches {
+        safe: 4,
+        total: 7,
+    },
+    coal: Patches {
+        safe: 2,
+        total: 5,
+    },
+    stone: Patches {
+        safe: 3,
+        total: 3,
+    },
+}
+#12. 1882 = MapResult {
+    iron: Patches {
+        safe: 6,
+        total: 6,
+    },
+    copper: Patches {
+        safe: 4,
+        total: 7,
+    },
+    coal: Patches {
+        safe: 3,
+        total: 5,
+    },
+    stone: Patches {
+        safe: 3,
+        total: 5,
+    },
+}
+#11. 1014 = MapResult {
+    iron: Patches {
+        safe: 6,
+        total: 7,
+    },
+    copper: Patches {
+        safe: 1,
+        total: 6,
+    },
+    coal: Patches {
+        safe: 5,
+        total: 7,
+    },
+    stone: Patches {
+        safe: 4,
+        total: 5,
+    },
+}
+#10. 1298 = MapResult {
+    iron: Patches {
+        safe: 6,
+        total: 7,
+    },
+    copper: Patches {
+        safe: 3,
+        total: 5,
+    },
+    coal: Patches {
+        safe: 2,
+        total: 5,
+    },
+    stone: Patches {
+        safe: 3,
+        total: 9,
+    },
+}
+#9. 1590 = MapResult {
+    iron: Patches {
+        safe: 6,
+        total: 8,
+    },
+    copper: Patches {
+        safe: 2,
+        total: 6,
+    },
+    coal: Patches {
+        safe: 3,
+        total: 6,
+    },
+    stone: Patches {
+        safe: 4,
+        total: 8,
+    },
+}
+#8. 1888 = MapResult {
+    iron: Patches {
+        safe: 6,
+        total: 8,
+    },
+    copper: Patches {
+        safe: 3,
+        total: 5,
+    },
+    coal: Patches {
+        safe: 4,
+        total: 6,
+    },
+    stone: Patches {
+        safe: 2,
+        total: 3,
+    },
+}
+#7. 1766 = MapResult {
+    iron: Patches {
+        safe: 6,
+        total: 8,
+    },
+    copper: Patches {
+        safe: 5,
+        total: 7,
+    },
+    coal: Patches {
+        safe: 4,
+        total: 5,
+    },
+    stone: Patches {
+        safe: 5,
+        total: 7,
+    },
+}
+#6. 1184 = MapResult {
+    iron: Patches {
+        safe: 6,
+        total: 9,
+    },
+    copper: Patches {
+        safe: 3,
+        total: 5,
+    },
+    coal: Patches {
+        safe: 2,
+        total: 5,
+    },
+    stone: Patches {
+        safe: 2,
+        total: 5,
+    },
+}
+#5. 1412 = MapResult {
+    iron: Patches {
+        safe: 7,
+        total: 7,
+    },
+    copper: Patches {
+        safe: 3,
+        total: 6,
+    },
+    coal: Patches {
+        safe: 3,
+        total: 6,
+    },
+    stone: Patches {
+        safe: 3,
+        total: 5,
+    },
+}
+#4. 1348 = MapResult {
+    iron: Patches {
+        safe: 7,
+        total: 8,
+    },
+    copper: Patches {
+        safe: 3,
+        total: 7,
+    },
+    coal: Patches {
+        safe: 3,
+        total: 5,
+    },
+    stone: Patches {
+        safe: 3,
+        total: 5,
+    },
+}
+#3. 1588 = MapResult {
+    iron: Patches {
+        safe: 7,
+        total: 8,
+    },
+    copper: Patches {
+        safe: 3,
+        total: 8,
+    },
+    coal: Patches {
+        safe: 2,
+        total: 4,
+    },
+    stone: Patches {
+        safe: 6,
+        total: 8,
+    },
+}
+#2. 1312 = MapResult {
+    iron: Patches {
+        safe: 7,
+        total: 10,
+    },
+    copper: Patches {
+        safe: 4,
+        total: 5,
+    },
+    coal: Patches {
+        safe: 2,
+        total: 5,
+    },
+    stone: Patches {
+        safe: 2,
+        total: 3,
+    },
+}
+#1. 1824 = MapResult {
+    iron: Patches {
+        safe: 8,
+        total: 10,
+    },
+    copper: Patches {
+        safe: 5,
+        total: 6,
+    },
+    coal: Patches {
+        safe: 3,
+        total: 8,
+    },
+    stone: Patches {
+        safe: 2,
+        total: 3,
+    },
+}
