@@ -7,11 +7,11 @@
 - Deathworld preset
 - Desert (min bias for moisture/terrain type, disable water, min trees & rocks)
 - Min resources - all sliders down to 17%
-- Bullet turrets only (gun & artillery). Personal weapons are all allowed
+- Only gun turrets, artillery, rocket turrets. No flamethrowers, no laser turrest, no landmines. Personal weapons are all allowed
 - Space - 400% asteroids, no asteroid collecting (except for minimum to unlock Vulcanus & Fulgora)
 - Vulcanus - no lava
 - Fulgora - min island coverage, max cliffs, no recycling except for scrap
-- Gleba - 600% enemy nest freq & size, 10000% spoling rate
+- Gleba - 600% enemy nest freq & size, 1000% spoling rate
 - Aquilo - ???
 
 ## Map exchange string
